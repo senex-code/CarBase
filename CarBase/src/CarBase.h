@@ -25,8 +25,8 @@ public:
    * @param trigPin          Ultrasonic sensor trigger pin.
    * @param echoPin          Ultrasonic sensor echo pin.
    * @param servoPin         Servo pin for scanner arm.
-   * @param leftIRPin        Digital input pin for left IR sensor.
-   * @param rightIRPin       Digital input pin for right IR sensor.
+   * @param leftIRPin        Digital or analog input pin for left IR sensor.
+   * @param rightIRPin       Digital or analog input pin for right IR sensor.
    */
   CarBase(uint8_t leftForwardPin,
         uint8_t leftBackwardPin,
