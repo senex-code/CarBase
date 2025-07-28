@@ -1,0 +1,15 @@
+CarBase          KEYWORD1
+moveForward      KEYWORD2
+moveBackward     KEYWORD2
+pivotLeft        KEYWORD2
+pivotRight       KEYWORD2
+turnLeft         KEYWORD2
+turnRight        KEYWORD2
+stop             KEYWORD2
+measureDistance  KEYWORD2
+measureDistanceAt KEYWORD2
+setScannerAngle  KEYWORD2
+readLeftIR       KEYWORD2
+readRightIR      KEYWORD2
+readLeftIRRaw    KEYWORD2
+readRightIRRaw   KEYWORD2
